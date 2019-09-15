@@ -1,2 +1,2 @@
-# dj007.github.io
-blog, thoughts and banter
+# amjadrikabi.com :sunglasses:
+thoughts, rants and banter 
