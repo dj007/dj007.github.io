@@ -1,3 +1,5 @@
-# Welcome to my Homepage :sunglasses:
+# Welcome to my Homepage 
 
-You may reach me at amjad at amjadrikabi dot com.
+:sunglasses:
+
+You may reach me at :incoming_envelope: ```amjad at amjadrikabi dot com```.
